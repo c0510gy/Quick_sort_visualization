@@ -1,0 +1,7 @@
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\bin\Debug\Quick_sort.exe.config
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\bin\Debug\Quick_sort.exe
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\bin\Debug\Quick_sort.pdb
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\obj\Debug\Quick_sort.csprojResolveAssemblyReference.cache
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\obj\Debug\Quick_sort.csproj.CoreCompileInputs.cache
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\obj\Debug\Quick_sort.exe
+D:\Projects\sorting_algorithm\Quick_sort\Quick_sort\Quick_sort\obj\Debug\Quick_sort.pdb
